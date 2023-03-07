@@ -10,5 +10,5 @@ then
 "npm start"
 
 ## İmages
-![İMG](imgs/aa.png "İMG")
+![İMG](img/aa.png "İMG")
 
