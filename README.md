@@ -5,9 +5,7 @@ Adding functionality with JavaScript.
 Make styling easy with scss.
 
 ## How To Use ? 
-"npm i"
-then
-"npm start"
+After getting all the files. Open with live server
 
 ## İmages
 ![İMG](img/aa.png "İMG")
